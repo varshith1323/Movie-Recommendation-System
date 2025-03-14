@@ -1,15 +1,15 @@
 # Movie Recommendation System
 
-Course project for the Recommender Systems course **AI 705 - Spring 2024**. We worked on the **1M MovieLens dataset** to recommend movies to users using various methods like **Collaborative Filtering, K-Means, and SVD**.
+Course project for the Recommender Systems course AI 705 - Spring 2024. We worked on the 1M MovieLens dataset to recommend movies to users using various methods like Collaborative Filtering, K-Means, and SVD.
 
 ## Notebooks
 
-- `final-collaborative.ipynb` - Contains the code for **User-User and Item-Item based collaborative filtering**.
-- `kmeans_svd.ipynb` - Contains the code for **K-Means++ and Reduced SVD Implementation**.
-- More about the project can be found in the **presentation slide deck**.
+- `final-collaborative.ipynb` - Contains the code for User-User and Item-Item based collaborative filtering.
+- `kmeans_svd.ipynb` - Contains the code for K-Means++ and Reduced SVD Implementation.
+- More about the project can be found in the presentation slide deck.
 
 ## Instructions to Run
 
-1. Import the **MovieLens 1M dataset** on your platform and update the path names to load the data accordingly.
-2. Code to **add a new user** is provided.
-3. Enter the **user ID** for which you want to predict movies and run the notebook.
+1. Import the MovieLens 1M dataset on your platform and update the path names to load the data accordingly.
+2. Code to add a new user is provided.
+3. Enter the user ID for which you want to predict movies and run the notebook.
